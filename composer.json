@@ -1,0 +1,17 @@
+{
+    "name": "omega/hexlet-php",
+    "autoload": {
+        "psr-4": {
+            "Omega\\HexletPhp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "kirichenkods",
+            "email": "kirichenkods@ya.ru"
+        }
+    ],
+    "require": {
+        "tightenco/collect": "^9.8"
+    }
+}
