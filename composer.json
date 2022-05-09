@@ -3,7 +3,10 @@
     "autoload": {
         "psr-4": {
             "Omega\\HexletPhp\\": "src/"
-        }
+        },
+        "files": [
+            "src/Runner.php"
+        ]
     },
     "authors": [
         {
